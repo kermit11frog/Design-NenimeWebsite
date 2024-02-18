@@ -232,7 +232,7 @@ main .continue-watching .watched-box {
 }
 
 main .continue-watching .watched-box .watched {
-	width: 300px;
+	flex-grow: 1;
 	height: 150px;
 	border-radius: 20px;
 	overflow: hidden;
